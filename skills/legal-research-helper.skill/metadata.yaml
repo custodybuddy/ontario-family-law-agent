@@ -1,0 +1,10 @@
+name: "legal-research-helper"
+title: "Legal Research Helper"
+owner: "tbd"
+status: "draft"
+last_updated: "2026-05-14"
+source_of_truth: "skills/legal-research-helper.skill/SKILL.md"
+version: "1.0"
+inputs: []
+outputs: []
+dependencies: []

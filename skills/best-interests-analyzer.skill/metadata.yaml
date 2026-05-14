@@ -1,0 +1,10 @@
+name: "best-interests-analyzer"
+title: "Best Interests Analyzer"
+owner: "tbd"
+status: "draft"
+last_updated: "2026-05-14"
+source_of_truth: "skills/best-interests-analyzer.skill/SKILL.md"
+version: "1.0"
+inputs: []
+outputs: []
+dependencies: []

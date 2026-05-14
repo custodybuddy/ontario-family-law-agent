@@ -1,0 +1,10 @@
+name: "timeline-builder"
+title: "Timeline Builder"
+owner: "tbd"
+status: "draft"
+last_updated: "2026-05-14"
+source_of_truth: "skills/timeline-builder.skill/SKILL.md"
+version: "1.0"
+inputs: []
+outputs: []
+dependencies: []

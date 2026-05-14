@@ -1,0 +1,10 @@
+name: "ontario-family-law-advisor"
+title: "Ontario Family Law Advisor"
+owner: "tbd"
+status: "draft"
+last_updated: "2026-05-14"
+source_of_truth: "skills/ontario-family-law-advisor.skill/SKILL.md"
+version: "1.0"
+inputs: []
+outputs: []
+dependencies: []

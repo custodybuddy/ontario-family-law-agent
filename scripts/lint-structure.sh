@@ -33,6 +33,16 @@ while IFS= read -r f; do
   done
 done < <(rg --files "$ROOT" -g '*.md')
 
+# 3) Skill directory contract.
+while IFS= read -r skill_dir; do
+  for req in SKILL.md metadata.yaml examples.md tests.md; do
+    if [[ ! -f "$skill_dir/$req" ]]; then
+      echo "MISSING SKILL FILE: $skill_dir/$req"
+      FAIL=1
+    fi
+  done
+done < <(find "$ROOT/skills" -maxdepth 1 -type d -name '*.skill' 2>/dev/null | sort)
+
 if [[ "$FAIL" -ne 0 ]]; then
   echo "\nStructure lint failed."
   exit 1

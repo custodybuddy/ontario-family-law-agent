@@ -1,0 +1,10 @@
+name: "narcissistic-pattern-analyzer"
+title: "Narcissistic Pattern Analyzer"
+owner: "tbd"
+status: "draft"
+last_updated: "2026-05-14"
+source_of_truth: "skills/narcissistic-pattern-analyzer.skill/SKILL.md"
+version: "1.0"
+inputs: []
+outputs: []
+dependencies: []
