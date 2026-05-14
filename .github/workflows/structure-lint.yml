@@ -1,0 +1,16 @@
+name: Structure Lint
+
+on:
+  pull_request:
+  push:
+    branches: [ master ]
+
+jobs:
+  lint-structure:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Run structure lint
+        run: ./scripts/lint-structure.sh

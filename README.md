@@ -26,6 +26,7 @@ Content-first AI assistant repository for Ontario family law education and high-
 - `automation/`: workflow blueprints
 - `testing/`: evaluation rubrics and scenarios
 - `admin/`, `maintenance/`: governance and upkeep
+- `archive/artifacts/`: generated bundles and legacy snapshots
 
 ## Quick Start
 1. Read `QUICK_START.md`
@@ -34,3 +35,7 @@ Content-first AI assistant repository for Ontario family law education and high-
 
 ## Status
 This repository is in a documentation/content buildout phase. Some files are intentionally placeholders and tracked in `docs/architecture/content-gaps.md`.
+
+## Quality Gates
+- Local lint: `./scripts/lint-structure.sh`
+- CI lint: `.github/workflows/structure-lint.yml`

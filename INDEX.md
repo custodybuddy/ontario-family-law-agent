@@ -45,3 +45,8 @@ source_of_truth: "INDEX.md"
 - `testing/`
 - `maintenance/`
 - `admin/`
+- `scripts/lint-structure.sh`
+- `.github/workflows/structure-lint.yml`
+
+## Archive
+- `archive/artifacts/`
