@@ -1,3 +1,11 @@
+---
+title: "SKILL"
+owner: "tbd"
+status: "active"
+last_updated: "2026-05-14"
+source_of_truth: "skills/incident-report-generator.skill/SKILL.md"
+---
+
 # Incident Report Generator
 
 **Skill Type:** Documentation & Evidence  

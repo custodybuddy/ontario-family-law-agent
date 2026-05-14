@@ -1,3 +1,11 @@
+---
+title: "README"
+owner: "tbd"
+status: "active"
+last_updated: "2026-05-14"
+source_of_truth: "README.md"
+---
+
 # Ontario Family Law Agent
 
 Content-first AI assistant repository for Ontario family law education and high-conflict co-parenting support.

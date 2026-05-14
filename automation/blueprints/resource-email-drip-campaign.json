@@ -1,0 +1,7 @@
+{
+  "name": "resource-email-drip-campaign",
+  "status": "placeholder",
+  "last_updated": "2026-05-14",
+  "description": "Scaffold blueprint. Define audience, cadence, and message sequence.",
+  "steps": []
+}

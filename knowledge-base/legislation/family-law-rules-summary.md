@@ -1,3 +1,11 @@
+---
+title: "Family Law Rules Summary"
+owner: "tbd"
+status: "active"
+last_updated: "2026-05-14"
+source_of_truth: "knowledge-base/legislation/family-law-rules-summary.md"
+---
+
 # Family Law Rules - Summary for Ontario Family Law
 
 **Last Updated:** April 19, 2026  

@@ -1,3 +1,11 @@
+---
+title: "AGENT"
+owner: "tbd"
+status: "active"
+last_updated: "2026-05-14"
+source_of_truth: "docs/AGENT.md"
+---
+
 # AGENT.md (Deprecated)
 
 This file is retained for backward compatibility.

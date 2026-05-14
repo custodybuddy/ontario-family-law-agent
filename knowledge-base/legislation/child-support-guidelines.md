@@ -1,3 +1,11 @@
+---
+title: "Child Support Guidelines"
+owner: "tbd"
+status: "active"
+last_updated: "2026-05-14"
+source_of_truth: "knowledge-base/legislation/child-support-guidelines.md"
+---
+
 # Child Support Guidelines - Key Sections for Ontario Family Law
 
 **Last Updated:** April 19, 2026  

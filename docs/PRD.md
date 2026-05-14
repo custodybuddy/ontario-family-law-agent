@@ -1,3 +1,11 @@
+---
+title: "PRD"
+owner: "tbd"
+status: "active"
+last_updated: "2026-05-14"
+source_of_truth: "docs/PRD.md"
+---
+
 # Product Requirements Document (PRD)
 ## Ontario Family Law Assistant
 

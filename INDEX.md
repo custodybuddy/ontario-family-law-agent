@@ -1,3 +1,11 @@
+---
+title: "INDEX"
+owner: "tbd"
+status: "active"
+last_updated: "2026-05-14"
+source_of_truth: "INDEX.md"
+---
+
 # Repository Index
 
 ## Core Documentation

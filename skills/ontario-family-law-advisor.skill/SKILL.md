@@ -1,3 +1,11 @@
+---
+title: "SKILL"
+owner: "tbd"
+status: "active"
+last_updated: "2026-05-14"
+source_of_truth: "skills/ontario-family-law-advisor.skill/SKILL.md"
+---
+
 # Ontario Family Law Advisor
 
 **Skill Type:** Legal Education & Guidance  

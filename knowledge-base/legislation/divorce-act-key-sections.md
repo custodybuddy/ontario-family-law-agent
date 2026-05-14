@@ -1,3 +1,11 @@
+---
+title: "Divorce Act Key Sections"
+owner: "tbd"
+status: "active"
+last_updated: "2026-05-14"
+source_of_truth: "knowledge-base/legislation/divorce-act-key-sections.md"
+---
+
 # Divorce Act - Key Sections for Ontario Family Law
 
 **Last Updated:** April 19, 2026  

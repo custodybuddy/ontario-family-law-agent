@@ -1,3 +1,11 @@
+---
+title: "Family Law Act Key Sections"
+owner: "tbd"
+status: "active"
+last_updated: "2026-05-14"
+source_of_truth: "knowledge-base/legislation/family-law-act-key-sections.md"
+---
+
 # Family Law Act (FLA) - Key Sections for Ontario Family Law
 
 **Last Updated:** April 19, 2026  

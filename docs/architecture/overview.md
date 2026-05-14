@@ -1,3 +1,11 @@
+---
+title: "Overview"
+owner: "tbd"
+status: "active"
+last_updated: "2026-05-14"
+source_of_truth: "docs/architecture/overview.md"
+---
+
 # Architecture Overview
 
 ## System Type

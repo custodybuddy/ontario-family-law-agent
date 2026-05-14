@@ -1,3 +1,11 @@
+---
+title: "Clra Key Sections"
+owner: "tbd"
+status: "active"
+last_updated: "2026-05-14"
+source_of_truth: "knowledge-base/legislation/clra-key-sections.md"
+---
+
 # Children's Law Reform Act (CLRA) - Key Sections for Ontario Family Law
 
 **Last Updated:** April 19, 2026  

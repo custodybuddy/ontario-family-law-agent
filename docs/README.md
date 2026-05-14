@@ -1,3 +1,11 @@
+---
+title: "README"
+owner: "tbd"
+status: "active"
+last_updated: "2026-05-14"
+source_of_truth: "docs/README.md"
+---
+
 # Ontario Family Law Assistant
 
 **AI-Powered Legal Education for Self-Represented Parents in High-Conflict Custody Situations**
